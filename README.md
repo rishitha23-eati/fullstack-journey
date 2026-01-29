@@ -1,14 +1,21 @@
-# Full Stack Journey
+# My First Website 🌐
 
-This repository contains my HTML practice programs.
+This is a simple website created using HTML and CSS.
 
-## Topics Covered
-- Basic HTML structure
-- Lists (ul, ol)
-- Tables
-- Forms
-- Images
-- Audio & Video
-- Semantic HTML
+## 🚀 Live Website
+Click here to view my website:  
+https://rishitha23-eati.github.io/fullstack-journey/
 
-This repository is created for learning and interview preparation.
+## 📚 What I Learned
+- HTML basics
+- Tables (Name & Age)
+- CSS styling
+- GitHub Pages hosting
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- GitHub
+
+## 📌 About Me
+I am a B.Tech CSE student learning Full Stack Development.
